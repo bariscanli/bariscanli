@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bariscanli
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, Data Analysis
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
